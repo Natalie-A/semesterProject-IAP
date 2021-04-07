@@ -35,5 +35,8 @@
                     @endauth
                 </div>
             @endif
+            <div>
+        <img   src="{{asset('images/logo.jpg')}}">
+        </div>
     </body>
 </html>
